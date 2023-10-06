@@ -1,4 +1,4 @@
-# ARVR_Development_P1M3_A1
+# Phase1Module3_Assignment1
 
 Repository for the "HelloWorld" project
 
