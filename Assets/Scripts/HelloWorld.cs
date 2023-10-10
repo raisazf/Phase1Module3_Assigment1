@@ -14,7 +14,7 @@ public class HelloWorld : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-#breakpoint for number of frames
+// this produces an error
         m_frame++;
     }
 }
